@@ -1,26 +1,23 @@
-```
-[ | ]  MONO
-```
+## Manojit Ballav
 
-**Systems and infrastructure for connected devices.**
+Product leader specializing in consumer electronics. Bengaluru.
 
-Principal Product Manager at [Lumio](https://lumio.co.in) — smart TVs, projectors, and the TLDR content platform. Before that, Xiaomi (2017–2024), where I built PatchWall.
+Nine years at the intersection of hardware and software, building products that millions of people use every day.
 
----
+Currently at **[Lumio](https://lumio.co.in)** — home projectors, the TLDR content discovery platform, and product operations. Lumio builds QD-Mini LED TVs, QLED smart TVs and home projectors, and crossed $1M GMV within two months of launch.
 
-**MonoAxis** — quality infrastructure for smart TV and connected device teams.
-
-The rest is internal: catalog and spec systems, manufacturing execution, warehouse operations, content pipelines, device test farms. Control panels and structured data. Not the part that gets a launch event.
+Before that, **Xiaomi (2017–2024)**. Seven years helping build India's #1 smart TV brand. I helped build PatchWall, one of India's earliest smart TV content aggregation platforms, and managed the product lifecycle for smart TVs, streaming devices, soundbars and the Xiaomi Pad 6.
 
 |  |  |
 | --- | --- |
-| Products launched | 33+ |
-| Smart TVs powered | 12M+ |
+| Products launched | 33 |
+| Devices sold | 12M+ |
 | PatchWall monthly actives | 5M+ |
-| Content & OTT partnerships | 30+ |
+| OTT & content partnerships | 30+ |
+| Xiaomi at #1 in India | 20 consecutive quarters |
 
-Public repositories here are older and smaller than the private work — Python scrapers, parsers, and utilities kept because they still get used.
+**Focus** — smart TV product strategy, CTV advertising, FAST channels, display technologies (QD-Mini LED, QLED, OLED), AI-driven content discovery, and the connected device ecosystem in India.
 
----
+Author of an IEEE research publication.
 
 [manojitballav.com](https://manojitballav.com) · [LinkedIn](https://in.linkedin.com/in/manojitballav) · [@manojitballav](https://x.com/manojitballav)
