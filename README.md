@@ -14,7 +14,7 @@ Before that, **Xiaomi (2017–2024)**. Seven years helping build India's #1 smar
 | Devices sold | 12M+ |
 | PatchWall monthly actives | 5M+ |
 | OTT & content partnerships | 30+ |
-| Xiaomi at #1 in India | 20 consecutive quarters |
+| Xiaomi at #1 in India | 22 consecutive quarters |
 
 **Focus** — smart TV product strategy, CTV advertising, FAST channels, display technologies (QD-Mini LED, QLED, OLED), AI-driven content discovery, and the connected device ecosystem in India.
 
