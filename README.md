@@ -12,7 +12,7 @@ Before that, **Xiaomi (2017–2024)**. Seven years helping build India's #1 smar
 | --- | --- |
 | Products launched | 33 |
 | Devices sold | 12M+ |
-| PatchWall monthly actives | 5M+ |
+| PatchWall monthly actives | 6M+ |
 | OTT & content partnerships | 30+ |
 | Xiaomi at #1 in India | 22 consecutive quarters |
 
