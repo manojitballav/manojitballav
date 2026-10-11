@@ -1,6 +1,6 @@
 ## Manojit Ballav
 
-Product leader specializing in consumer electronics. Bengaluru.
+Principal Product Manager at Lumio, formerly Xiaomi India. Bengaluru.
 
 Nine years at the intersection of hardware and software, building products that millions of people use every day.
 
@@ -10,7 +10,7 @@ Before that, **Xiaomi (2017–2024)**. Seven years helping build India's #1 smar
 
 |  |  |
 | --- | --- |
-| Products launched | 33 |
+| Products launched | 34 |
 | Devices sold | 12M+ |
 | PatchWall monthly actives | 6M+ |
 | OTT & content partnerships | 30+ |
@@ -18,6 +18,6 @@ Before that, **Xiaomi (2017–2024)**. Seven years helping build India's #1 smar
 
 **Focus** — smart TV product strategy, CTV advertising, FAST channels, display technologies (QD-Mini LED, QLED, OLED), AI-driven content discovery, and the connected device ecosystem in India.
 
-Author of an IEEE research publication.
+Co-author of [*Application of IoT in detecting health risks due to flickering artificial lights*](https://doi.org/10.1109/ICACCI.2015.7275966) (IEEE ICACCI 2015).
 
 [manojitballav.com](https://manojitballav.com) · [LinkedIn](https://in.linkedin.com/in/manojitballav) · [@manojitballav](https://x.com/manojitballav)
